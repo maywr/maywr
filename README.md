@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+    <img width="200" src="https://raw.githubusercontent.com/maywr/maywr/main/ceb9d732314ca91b1412a0740eb48d53.png">
+</p>
 
-<!--
-**maywr/maywr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> hullo peopl <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-Here are some ideas to get you started:
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/t4KtR6FqRm)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🎓learning java and python
+- :monkey: monky
+- 🧒 14 years old
+
+
+# languagess i a little bit do
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/maywr)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/maywr)
